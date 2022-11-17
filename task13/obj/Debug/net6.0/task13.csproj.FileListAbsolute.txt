@@ -1,0 +1,15 @@
+E:\Progi\gb_learn\C#\lern_1_dz\task13\obj\Debug\net6.0\task13.csproj.AssemblyReference.cache
+E:\Progi\gb_learn\C#\lern_1_dz\task13\obj\Debug\net6.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+E:\Progi\gb_learn\C#\lern_1_dz\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
+E:\Progi\gb_learn\C#\lern_1_dz\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
+E:\Progi\gb_learn\C#\lern_1_dz\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
+E:\Progi\gb_learn\C#\lern_1_dz\task13\bin\Debug\net6.0\task13.exe
+E:\Progi\gb_learn\C#\lern_1_dz\task13\bin\Debug\net6.0\task13.deps.json
+E:\Progi\gb_learn\C#\lern_1_dz\task13\bin\Debug\net6.0\task13.runtimeconfig.json
+E:\Progi\gb_learn\C#\lern_1_dz\task13\bin\Debug\net6.0\task13.dll
+E:\Progi\gb_learn\C#\lern_1_dz\task13\bin\Debug\net6.0\task13.pdb
+E:\Progi\gb_learn\C#\lern_1_dz\task13\obj\Debug\net6.0\task13.dll
+E:\Progi\gb_learn\C#\lern_1_dz\task13\obj\Debug\net6.0\refint\task13.dll
+E:\Progi\gb_learn\C#\lern_1_dz\task13\obj\Debug\net6.0\task13.pdb
+E:\Progi\gb_learn\C#\lern_1_dz\task13\obj\Debug\net6.0\task13.genruntimeconfig.cache
+E:\Progi\gb_learn\C#\lern_1_dz\task13\obj\Debug\net6.0\ref\task13.dll
