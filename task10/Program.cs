@@ -1,6 +1,5 @@
-﻿// Напишите программу, которая прнимает на вход трехзначное число и на входе показывает вторую цифру этого числа.
-// 456 -> 5
-
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 
 int rnd = new Random().Next(-999,1000);
 Console.WriteLine(rnd); 
