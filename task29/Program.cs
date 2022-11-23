@@ -22,7 +22,7 @@ Console.Write("Ваши цифры " + '[' + string.Join(", ", UserArr) + ']');
 Console.WriteLine("");
 Console.Write("Выпавшие цифры " + '[' + string.Join(", ", RndArr) + ']');
 Console.WriteLine("");
-if (UserArr==RndArr)
+if (UserArr.SequenceEqual(RndArr)) //погуглил чтоб сравнить два массива
 {
     Console.WriteLine("Вы выиграли!");
 }
