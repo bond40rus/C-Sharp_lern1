@@ -6,7 +6,7 @@ double[] FillArray(int size)
     double[] arr = new double[size];
     for(int i = 0; i < arr.Length; i++)
     {
-        arr[i] = Convert.ToDouble(string.Format("{0: .00}" , new Random().Next(10,100)))/*+0.01*/; //не хочет показывать цифры после запятой, но цифры  double  если  например +0.01
+        arr[i] = Convert.ToDouble(string.Format("{0: .00}" , new Random().Next(10,100) + new Random().NextDouble()));
     }
     return arr;
 }
@@ -31,5 +31,6 @@ for(int i = 0 ; i < array.Length; i++)
     }
 }
 double diff = maxi - mini;
+diff = Convert.ToDouble(string.Format("{0: .00}" , diff));
 Console.Write($"min = {mini} max = {maxi} diff = {diff}");
 
