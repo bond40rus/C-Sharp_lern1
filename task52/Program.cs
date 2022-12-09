@@ -25,8 +25,9 @@ for(int i = 0; i < m; i++)
     }
     Console.WriteLine();
 }
-  Console.WriteLine();
-  Console.WriteLine("Итог");
+
+Console.WriteLine();
+Console.WriteLine("Итог");
 
 for (int k = 0; k < n; k++)
 {
