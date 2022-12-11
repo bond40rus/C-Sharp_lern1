@@ -8,8 +8,6 @@ int numM = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите начальное число N:");
 int numN = Convert.ToInt32(Console.ReadLine());
-
-///Метод вычисления функции Аккермана:
 int RecAckermann (int numM, int numN)
 {
     if (numM == 0) 
